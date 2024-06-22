@@ -70,3 +70,36 @@ Follow these steps to get your Code Organizer up and running:
 
 After running the script, your repository structure will look like this:
 
+```plaintext
+output_repo/
+├── project/
+│ ├── src/
+│ │ └── app/
+│ │ ├── main.py
+│ │ └── utils/
+│ │ └── helpers.py
+│ ├── tests/
+│ │ └── test_helpers.py
+│ └── README.md
+```
+
+### Contributing
+
+We welcome contributions! If you have suggestions for improvements or new features, feel free to create an issue or submit a pull request.
+
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Contact
+
+For any inquiries, please reach out to:
+
+- **M. Sotoudeh**: [m.sotoude@e.email](mailto:m.sotoude@e.email)
+- **GitHub**: [MSotoudeh](https://github.com/MSotoudeh)
+
+---
+
+Thank you for using **Code Organizer**! Happy coding!
+
+![Code Organizer](assets/code-organizer-footer.png)
