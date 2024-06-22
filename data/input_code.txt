@@ -1,0 +1,26 @@
+/project/src/app/main.py
+import os
+
+def main():
+    print("Main function in main.py")
+
+if __name__ == "__main__":
+    main()
+/project/src/app/utils/helpers.py
+def greet(name):
+    return f"Hello, {name}!"
+
+def farewell(name):
+    return f"Goodbye, {name}."
+/project/tests/test_helpers.py
+from project.src.app.utils.helpers import greet, farewell
+
+def test_greet():
+    assert greet("Alice") == "Hello, Alice!"
+
+def test_farewell():
+    assert farewell("Alice") == "Goodbye, Alice."
+/project/README.md
+# Project Title
+
+This is a README file for the project.
