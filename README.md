@@ -8,9 +8,6 @@ This project parses a single input file containing multiple code snippets, each 
 ## Features
 
 - **Automated Directory Creation**: Automatically creates directories and files based on specified paths.
-- **Code Segregation**: Segregates code snippets into the appropriate files, removing path lines for clean code integration.
-- **Ease of Use**: Simple setup and execution process.
-- **Highly Customizable**: Easily adaptable to various project structures and requirements.
 
 ## Getting Started
 
