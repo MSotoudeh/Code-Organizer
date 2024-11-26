@@ -1,6 +1,6 @@
 # Code-Organizer
 
-Welcome to **Code Organizer**, a powerful and efficient tool designed to help developers structure and manage their code repositories with ease. This project parses a single input file containing multiple code snippets, each associated with specific file paths, and organizes them into a well-structured directory tree. Impress your team and streamline your workflow by automating code organization!
+This project parses a single input file containing multiple code snippets, each associated with specific file paths, and organizes them into a well-structured directory tree.
 
 
 ![Code Organizer](assets/code-organizer-banner.jpg)
